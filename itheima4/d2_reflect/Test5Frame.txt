@@ -1,0 +1,9 @@
+-----------Student-----------
+name=lily
+age=21
+sex=f
+height=160.0
+hobby=singing
+-----------Teacher-----------
+name=null
+salary=0.0
