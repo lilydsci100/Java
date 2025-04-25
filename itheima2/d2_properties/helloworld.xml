@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--注释,以上抬头声明必须放在第一行, 必须有 -->
+<users>
+    <user id="1">
+        <name>lily</name>
+        <sex>male</sex>
+        <address>guangmingding</address>
+        <password>minmin</password>
+        <data>3&lt;2 &amp;&amp; 5&gt;4 </data>
+    </user>
+    <people>很多人</people>
+    <user id="2">
+        <name>tim</name>
+        <sex>female</sex>
+        <address>guangmingding</address>
+        <password>muji</password>
+        <data>
+            <![CDATA[
+                3<2 && 5>4
+            ]]>
+        </data>
+    </user>
+</users>

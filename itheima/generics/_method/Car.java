@@ -1,0 +1,4 @@
+package com.itheima.generics._method;
+
+public class Car {
+}
